@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const ws = new WebSocket('ws://localhost:3000');
+const ws = new WebSocket('ws://localhost:4000');
 
 function App() {
   const [tasks, setTasks] = useState([]);

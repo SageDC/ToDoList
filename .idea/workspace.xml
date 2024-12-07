@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c566e5d9-973e-46ad-ae5f-e043c95f11f3" name="Changes" comment="Server backend" />
+    <list default="true" id="c566e5d9-973e-46ad-ae5f-e043c95f11f3" name="Changes" comment="To-Do List frontend">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list-backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list-backend/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo-list-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo-list-frontend/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733544853681</updated>
-      <workItem from="1733546241212" duration="2026000" />
+      <workItem from="1733546241212" duration="2399000" />
     </task>
     <task id="LOCAL-00001" summary="Server backend">
       <option name="closed" value="true" />
@@ -73,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733547423173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="To-Do List frontend">
+      <option name="closed" value="true" />
+      <created>1733548293020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733548293020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Server backend" />
-    <option name="LAST_COMMIT_MESSAGE" value="Server backend" />
+    <MESSAGE value="To-Do List frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="To-Do List frontend" />
   </component>
 </project>
